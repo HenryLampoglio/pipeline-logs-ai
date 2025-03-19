@@ -1,0 +1,9 @@
+Vazamento de Dados Expõe Informações de Milhões de Usuários de Rede Social
+
+Berlim, Alemanha, 10 de outubro de 2023 — Um grande vazamento de dados atingiu a rede social ConnectWorld, expondo informações pessoais de mais de 200 milhões de usuários em todo o mundo. Entre os dados vazados estão nomes, endereços de e-mail, números de telefone e até localizações geográficas. A empresa confirmou o incidente e afirmou que está investigando a origem do ataque cibernético.
+
+O vazamento foi descoberto por uma equipe de segurança digital que alertou a ConnectWorld sobre a vulnerabilidade em seus servidores. "A privacidade dos nossos usuários é nossa prioridade máxima, e estamos trabalhando sem parar para resolver essa situação", disse a CEO da empresa, Laura Schmidt, em um comunicado oficial.
+
+Especialistas em segurança digital alertam que os dados vazados podem ser usados para golpes de phishing, fraudes e roubo de identidade. A recomendação é que os usuários alterem suas senhas imediatamente e habilitem a autenticação de dois fatores em suas contas. Autoridades europeias já abriram uma investigação para apurar se a empresa falhou em cumprir as normas de proteção de dados estabelecidas pelo Regulamento Geral de Proteção de Dados (GDPR).
+
+Esse é o maior vazamento de dados do ano e serve como um alerta para a importância de investimentos em segurança cibernética por parte das empresas de tecnologia.
